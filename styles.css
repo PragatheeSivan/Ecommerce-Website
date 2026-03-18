@@ -1,0 +1,180 @@
+.logo {
+    width: 100px;
+}
+
+.cr {
+    height: 100vh;
+}
+
+p {
+    color: #616c7c;
+}
+
+.para {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.main-head {
+    color: #183b56;
+}
+
+.ing {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 60vh;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.in-con {
+    color: white;
+
+}
+
+.bt {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 16px;
+}
+
+.flex-container {
+    display: flex;
+    height: 60vh;
+    align-items: flex-end;
+    background-color: DodgerBlue;
+}
+
+.ing2 {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 60vh;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+h4 {
+    color: #ff9f00;
+}
+
+
+.bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.mer {
+    font-family: Serif;
+    color: #ad2167;
+    font-weight: 600;
+}
+
+.off {
+    font-style: italic;
+}
+
+.sit {
+    color: white;
+}
+
+
+.blogHead {
+    color: #183b56;
+}
+
+.card-content {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.co {
+    color: #9aa5b1;
+}
+
+.hedi {
+    color: #183b56;
+}
+
+.para-s {
+    font-size: 23px;
+}
+
+.red {
+    color: #ff9f00;
+    font-weight: 500;
+}
+
+.bgExplore {
+    background-color: #f5f7fa;
+}
+
+.mainE {
+    color: #1f2933;
+}
+
+.cardE {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.in-cor {
+
+    border-radius: 30px;
+}
+
+.para-card {
+    font-weight: 500;
+}
+
+.linkE {
+    color: #ff9f00;
+}
+
+.con-head {
+    color: #183b56;
+    font-weight: 600;
+}
+
+.bgCon {
+    background-color: #f5f7fa;
+}
+
+.btCon {
+    color: #ff9f00;
+    border-width: 3px;
+    border-color: #ff9f00;
+    width: 150px;
+}
+
+.bg-footer {
+    background-color: #19232d;
+
+}
+
+.f-foot {
+    color: #5a7184;
+
+}
+
+.logo-card-foot {
+    border-radius: 40px;
+    background-color: #202b36;
+    width: 50px;
+    height: 50px;
+    padding-top: 15px;
+
+}
+
+.logo-foot {
+    width: 150px;
+}
+
+.para-foot {
+    color: #5a7184;
+}
+
+.side-foot {
+    color: #5a7184;
+}
+
+.las-foot {
+    color: #959ead;
+}
